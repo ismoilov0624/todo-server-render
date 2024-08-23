@@ -19,9 +19,29 @@
   ],
   "todos": [
     {
-      "title": "title",
-      "description": "des",
+      "title": "Buy groceries",
+      "description": "Purchase milk, eggs, bread, and vegetables from the supermarket.",
       "id": 1
+    },
+    {
+      "title": "Finish project report",
+      "description": "Complete the final draft of the quarterly project report and submit it by 5 PM.",
+      "id": 2
+    },
+    {
+      "title": "Workout",
+      "description": "Go to the gym for a 1-hour workout, focusing on cardio and strength training.",
+      "id": 3
+    },
+    {
+      "title": "Call Mom",
+      "description": "Check in with Mom and discuss plans for the weekend.",
+      "id": 4
+    },
+    {
+      "title": "Read a book",
+      "description": "Read 30 pages of 'Atomic Habits' before going to bed.",
+      "id": 5
     }
   ]
 }
